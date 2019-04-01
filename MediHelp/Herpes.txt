@@ -1,0 +1,9 @@
+fever
+flu
+nausea
+muscleache
+painfulurination
+tingling
+burning
+itching
+0

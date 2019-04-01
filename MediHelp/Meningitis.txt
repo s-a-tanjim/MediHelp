@@ -1,0 +1,13 @@
+nausea
+vomiting
+fever
+headache
+stiffneck
+musclepain
+sensitivitytolight
+confusion
+coldhands
+coldfeet
+mottledskin
+rash
+0

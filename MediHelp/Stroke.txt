@@ -1,0 +1,15 @@
+suddennumbness
+suddenweakness
+suddenconfusion
+suddentroublespeaking
+suddendifficultyunderstndingspeech
+suddentroubleseeing
+suddentroublewalking
+dizziness
+lossofbalance
+lackofcoordination
+suddenheadache
+0
+
+
+understanding=understnding

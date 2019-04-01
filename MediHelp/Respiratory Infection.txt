@@ -1,0 +1,10 @@
+cough
+sneezing
+nasaldischarge
+nasalcongestion
+runnynose
+fever
+scratchy
+sorethroat
+nasalbreathing
+0

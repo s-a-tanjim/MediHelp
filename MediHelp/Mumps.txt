@@ -1,0 +1,10 @@
+fever
+headache
+muscleache
+weakness
+fatigue
+lossofappetite
+painwhilechewing
+painwhileswallowing
+swollensalivaryglands
+0

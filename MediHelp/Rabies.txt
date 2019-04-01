@@ -1,0 +1,16 @@
+fever
+headache
+nausea
+vomiting
+agitation
+anxiety
+confusion
+hyperactivity
+difficultyswallowing
+excessivesalivation
+fearofwater
+hydrophobia
+hallucination
+insomnia
+partialparalysis
+0

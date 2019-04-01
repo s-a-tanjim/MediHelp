@@ -1,0 +1,11 @@
+fever
+chills
+sweats
+headache
+drycough
+fatigue
+weakness
+nasalcongestion
+sorethroat
+achingmuscle
+0

@@ -1,0 +1,14 @@
+poorappetite
+abdominalpain
+peritonitis
+headache
+bodyache
+musclepain
+highfever
+fever
+lethargy
+intestinalbleeding
+intestinalperforation
+diarrhea
+constipation
+0

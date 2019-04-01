@@ -1,0 +1,16 @@
+fatigue
+suddennausea
+nausea
+vomiting
+abdominaldiscomfort
+claycoloredbowelmovements
+lossofappetite
+lowfever
+fever
+darkurine
+jointpain
+intenseitching
+abdominalpain
+yellowingofskin
+whitesofeyes
+0

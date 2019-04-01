@@ -1,0 +1,17 @@
+extremefatigue
+fatigue
+shortnessofbreath
+dizziness
+lightheadedness
+fainting
+chestpain
+chestpressure
+heartpalpitation
+swellinginlegs
+swellinginfeet
+swellinginabdomen
+cough
+congestion
+difficultysleeping
+weightgain
+0

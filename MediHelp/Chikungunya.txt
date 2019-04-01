@@ -1,0 +1,7 @@
+fever
+jointpain
+headache
+musclepain
+jointswelling
+rash
+0

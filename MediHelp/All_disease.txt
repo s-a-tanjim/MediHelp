@@ -1,0 +1,39 @@
+Anemia
+Cancer
+Chickenpox
+Chikungunya
+Cholera
+Chronic Obstructive Pulmonary
+Cirrhosis
+Dengue Fever
+Diabetes
+Diarrhea
+Gastroenteritis
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Herpes
+Influenza Flu
+Ischemic Cardiomyopathy
+Malaria
+Measles
+Meningitis
+Mumps
+Neonatal Encephalopathy
+Pneumonia
+Polio
+Preterm Birth Complications
+Rabies
+Respiratory Infection
+Stroke
+Swineflu
+Tuberculosis
+Typhoid
+Urinary Tract Infections
+Viral Fever
+Yellow Fever
+0
+
+
+
+Total Disease: 34

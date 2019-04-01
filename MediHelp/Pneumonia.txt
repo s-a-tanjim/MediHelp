@@ -1,0 +1,13 @@
+chestpain
+confusion
+cough
+fatigue
+fever
+sweating
+shakingchills
+lowerbodytemperature
+nausea
+vomiting
+diarrhea
+shortnessofbreath
+0

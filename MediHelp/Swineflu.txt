@@ -1,0 +1,12 @@
+fever
+cough
+sorethroat
+stuffynose
+wateryredeyes
+bodyache
+headache
+fatigue
+diarrhea
+nausea
+vomiting
+0

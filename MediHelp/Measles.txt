@@ -1,0 +1,8 @@
+fever
+drycough
+runnynose
+sorethroat
+inflamedeyes
+conjunctivitis
+0
+

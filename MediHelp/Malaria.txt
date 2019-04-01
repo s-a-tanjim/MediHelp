@@ -1,0 +1,15 @@
+shakingchills
+highfever
+fever
+profusesweating
+headache
+nausea
+vomiting
+abdominalpain
+diarrhea
+anemia
+musclepain
+convulsions
+coma
+bloodystools
+0

@@ -1,0 +1,12 @@
+diarrhea
+nausea
+vomiting
+headache
+muscleache
+jointache
+fever
+sweating
+clammyskin
+abdominalpain
+lossofappetite
+0

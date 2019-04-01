@@ -1,0 +1,6 @@
+fatigue
+fever
+weakness
+headache
+jointpain
+0
